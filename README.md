@@ -11,8 +11,12 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
- <a href="https://www.linkedin.com/in/nethmini-gayathree-silva-aa4288224/" target="blank"><img align="center" src="https://github.com/Prabhashwaree/Cake_Bakery_System/tree/master/src/assets/img/pngwing.com (9).png" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/nethmini-gayathree-silva-aa4288224/" target="blank"><img align="center" src="![pngwing com (9)](https://user-images.githubusercontent.com/90233777/187706061-b111a8f7-a71d-4e3f-996e-76e088d88195.png)" height="30" width="40" /></a>
 
    
 </p>
+
+
+
+
 
