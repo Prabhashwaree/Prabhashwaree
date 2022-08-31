@@ -10,5 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
+<p align="left">
+<a href="[https://twitter.com/thushan960821](https://www.linkedin.com/in/nethmini-gayathree-silva-aa4288224/)" target="blank"><img align="center" src="https://github.com/Prabhashwaree/Cake_Bakery_System/tree/master/src/assets/img/pngwing.com (9).png" alt="thushan960821" height="30" width="40" /></a>
 
-<a href="["](https://www.instagram.com/neth841/" target="-blank")>![pngwing com (9)](https://user-images.githubusercontent.com/90233777/187698817-12929dae-9db0-4459-969a-c724e4d25715.png)</a>
+</p>
+
