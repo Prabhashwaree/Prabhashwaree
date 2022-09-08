@@ -20,7 +20,7 @@
 
 
 
-![animation pic2](https://user-images.githubusercontent.com/90233777/189032740-6ce6af5b-6be5-4c4d-9001-abaaf15f3c33.gif)
+![animatepic1](https://user-images.githubusercontent.com/90233777/189032841-c6bc1bdb-520f-43f0-afcf-63b2082483ae.gif)
 
 
  ### 🛠 &nbsp;Tech Stack
