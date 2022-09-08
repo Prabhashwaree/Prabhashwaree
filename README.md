@@ -19,6 +19,7 @@
 </p>
 
 
+![animetPic](https://user-images.githubusercontent.com/90233777/189032635-51f7f61e-4ccb-4f3a-8ee0-6e8341132e30.gif)
 
 
  ### 🛠 &nbsp;Tech Stack
