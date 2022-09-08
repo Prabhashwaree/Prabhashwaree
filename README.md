@@ -11,7 +11,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shan-joel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shan-joel/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nethmini-gayathree-silva-aa4288224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shan-joel/" height="30" width="40" /></a>
+<a href="https://codepen.io/shan-joel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/shan-joel" height="30" width="40" /></a>
 
 </p>
 
