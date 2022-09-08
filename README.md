@@ -8,7 +8,7 @@
 
 ![1](https://user-images.githubusercontent.com/90233777/187691903-655cf86a-01c0-4420-a93b-5cf5363ff6a3.PNG)
 
-<h6>Email : prabhashwaree57@gmail.com</h6>
+<h6><b>Email<b> : prabhashwaree57@gmail.com</h6>
 
 
 
