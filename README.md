@@ -10,13 +10,13 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<!-- <p>
+<p>
 <h6>Email : prabhashwaree57@gmail.com</h6>
 <h6>Linkedin : https://www.linkedin.com/in/nethmini-gayathree-silva-aa4288224/</h6>
 <h6>Youtub : https://www.youtube.com/channel/UCGE3cKzQ2GuYD9K9aXwii5w</h6>
 <h6>Stackoverflow : https://stackoverflow.com/users/17466083/prabhashwaree-nethmi-57</h6>
 <h6>Whatsapp : 077 4914870</h6>
-</p> -->
+</p>
 
  
 
