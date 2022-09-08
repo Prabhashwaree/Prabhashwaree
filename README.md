@@ -19,7 +19,8 @@
 </p>
 
 
-![animetPic](https://user-images.githubusercontent.com/90233777/189032635-51f7f61e-4ccb-4f3a-8ee0-6e8341132e30.gif)
+
+![animation pic2](https://user-images.githubusercontent.com/90233777/189032740-6ce6af5b-6be5-4c4d-9001-abaaf15f3c33.gif)
 
 
  ### 🛠 &nbsp;Tech Stack
