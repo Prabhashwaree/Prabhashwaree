@@ -10,6 +10,10 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
+<p align="left">
+<a href="https://www.linkedin.com/in/shan-joel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shan-joel/" height="30" width="40" /></a>
+
+</p>
 
 <!-- <p>
 <h6>Email : prabhashwaree57@gmail.com</h6>
