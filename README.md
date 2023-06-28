@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prabhashwaree Nethmini Gayathree</h1>
 <h3 align="center">A passionate Front end developer</h3>
 
-**Hello...!  
-     ______**Friends****_______ 
-     
-     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%red&size=25&width=450&lines=I'm+Prabhashwaree+Nthmini.;+I+am+Software+Developer;+And+Designer;)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%red&size=25&width=450&lines=I'm+Prabhashwaree+Nthmini.;+I+am+Software+Developer;+And+UI/UX+Designer;)](https://git.io/typing-svg)
 
 # **WELCOME** To My Profile
 
@@ -43,9 +40,6 @@
 
 <br>
 <br>
-<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehandilusanka97&layout=compact&theme=cobalt&title_color=caf0f8&text_color=00b4d8"/>
-
-<br><br>
 
 
 
