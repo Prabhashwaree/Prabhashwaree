@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Vue.js**
 
-- 💬 Ask me about **React, MERN, React Native and Java**
+- 💬 Ask me about **React, Angular, MERN, React Native and Java**
 
 - 📫 How to reach me **prabhashwaree57@gmail.com**
 
