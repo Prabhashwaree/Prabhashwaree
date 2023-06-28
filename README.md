@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Prabhashwaree Nethmini Gayathree</h1>
+<h3 align="center">A passionate Front end developer</h3>
+
 **Hello...!  
      ______**Friends****_______ 
      
