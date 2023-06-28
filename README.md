@@ -1,8 +1,19 @@
 <h1 align="center">Hi 👋, I'm Prabhashwaree Nethmini Gayathree</h1>
 <h3 align="center">A passionate Front end developer</h3>
+<br>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%red&size=25&width=450&lines=I'm+Prabhashwaree+Nthmini.;+I+am+Software+Developer;+And+UI/UX+Designer;)](https://git.io/typing-svg)
+
+
+
+- 🌱 I’m currently learning **Angular**
+
+- 💬 Ask me about **React, MERN, React Native and Java**
+
+- 📫 How to reach me **prabhashwaree57@gmail.com**
+
+  <br>
 
 # **WELCOME** To My Profile
 
